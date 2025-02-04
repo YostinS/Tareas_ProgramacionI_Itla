@@ -1,2 +1,2 @@
 # Tareas_ProgramacionI_Itla
-En este repositoria se estara subiendo todas la tareas referente a Programacion I
+En este repositorio se estara subiendo todas la tareas referente a Programacion I
